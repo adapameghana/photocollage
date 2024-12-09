@@ -1,0 +1,1 @@
+Developed a Python-based tool using the Pillow library to automate the creation of photo collages. The program processes images from a specified folder, dynamically resizes them into thumbnails, and arranges them on a grid layout with customizable dimensions and margins. This project demonstrates proficiency in image processing, file handling, and programmatic layout design.
